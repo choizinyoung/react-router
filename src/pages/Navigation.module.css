@@ -1,0 +1,14 @@
+.nav {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    gap: 2rem;
+}
+.nav a {
+    color: black;
+}
+.active {
+    color: blueviolet;
+    background-color: blanchedalmond;
+}
